@@ -1,0 +1,8 @@
+{
+  "javascript_syntax": "passed",
+  "month_states_checked": 24,
+  "controls": "passed: previous, next, select, play/pause, tabs, measure change, multi-cohort checkboxes and Show observed + forecast",
+  "forecast_visibility": "passed: hidden before latest month",
+  "future_records": "passed: no later cohorts or operating months; tests gated by completion",
+  "browser_rendering": "not verified: macOS sandbox prevented Chromium launch"
+}
